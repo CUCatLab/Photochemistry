@@ -1,0 +1,8 @@
+data:
+  folder: 'C:/Users/catlab/Chapman University/LaRue CatLab - Data/'
+gases: ['Carbon Monoxide (CO)','Oxygen (O2)','Hydrogen (H2)', 'Nitrogen (N2)']
+
+srs: 
+  rga100:           
+    com: 3
+    masses: '2,15,16,17,18,28,32,44' 
